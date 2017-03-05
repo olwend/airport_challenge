@@ -17,6 +17,9 @@ Plane| landed (true : false),(Enhancement: ID, airport_code) |land , take_off
 Airport | weather (sunny, stormy), capacity,(Enhancement: code)|land_plane, takeoff_plane
 Users | Air traffic controller, System designer| System designer - Sets airport capacity
 
+Objects and Methods: 
+![Objects and Methods](https://github.com/olwend/airport_challenge/edit/master/Airport Challenge.jpg)
+
 ##3. Write feature tests from user stories
   - Min_1 acceptance test for each user story_
   - _Feature Test cases:_
