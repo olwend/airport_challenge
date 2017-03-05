@@ -18,7 +18,7 @@ Airport | weather (sunny, stormy), capacity,(Enhancement: code)|land_plane, take
 Users | Air traffic controller, System designer| System designer - Sets airport capacity
 
 Objects and Methods: 
-![Objects and Methods](https://github.com/olwend/airport_challenge/edit/master/Airport Challenge.jpg)
+![Objects and Methods](https://github.com/olwend/airport_challenge/edit/master/Airportchallenge.jpg)
 
 ##3. Write feature tests from user stories
   - Min_1 acceptance test for each user story_
